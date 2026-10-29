@@ -4,15 +4,21 @@ Computer Science student at UiTM interested in software engineering, AI and cybe
 
 ## About me
 - Studying: Computer Science, UiTM
-- Currently learning: [topics]
-- My FYP area: [your area, or "still deciding"]
+- Currently learning: Problem Formulation, Requirements and Technology Brief
+- My FYP area: Machine Learning 
 
 ## Skills and tools
-[List what you know. Example: Python, Git, SQL]
+Python
+Git
+SQL
+PHP
+Java
+Html
+CSS
 
 ## Projects
 - [Project Doc Report Automation](https://github.com/RashWork97/RashWork97): one sentence about it
 
 ## Contact
 - LinkedIn: [your profile link]
-- Email: [rashideen.work@gmail.com]
+- Email: rashideen.work@gmail.com
