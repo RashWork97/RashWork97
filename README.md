@@ -17,7 +17,7 @@ Html
 CSS
 
 ## Projects
-- [Project Asset Management System](https://github.com/RashWork97/RashWork97): one sentence about it
+- [Project Asset Management System](https://github.com/RashWork97/project-asset-lifecycle): one sentence about it
 
 ## Contact
 - LinkedIn: [your profile link]
