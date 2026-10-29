@@ -17,8 +17,8 @@ Html
 CSS
 
 ## Projects
-- [Project Asset Management System](https://github.com/RashWork97/project-asset-lifecycle): one sentence about it
+- [Project Asset Management System](https://github.com/RashWork97/project-asset-lifecycle): A centralize system make it easier to manage.
 
 ## Contact
-- LinkedIn: [your profile link]
+- LinkedIn: https://www.linkedin.com/in/rashideenkhamisan/
 - Email: rashideen.work@gmail.com
